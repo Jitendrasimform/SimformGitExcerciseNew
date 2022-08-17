@@ -8,5 +8,6 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
         // TODO:  12/12/12 asdadasd
+        // TODO:
     }
 }
